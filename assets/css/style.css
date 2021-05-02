@@ -8,11 +8,11 @@ body {
 }
 
 #userPhoto {
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
     display: block;
     margin: 10px auto;
-    border-radius: 20%;
+    border-radius: 30%;
 }
 
 #userName {
